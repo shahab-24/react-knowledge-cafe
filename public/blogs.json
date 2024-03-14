@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "cover_image": "https://example.com/cover_image1.jpg",
+    "title": "Introduction to Programming Languages",
+    "author_img": "https://example.com/john_doe.jpg",
+    "author_name": "John Doe",
+    "posted_date": "2024-03-14",
+    "reading_time": 10,
+    "hashtags": ["#programming", "#tech"]
+    
+    
+  },
+  {
+    "id": 2,
+    "cover_image": "https://example.com/cover_image2.jpg",
+    "title": "Exploring the World of Digital Art",
+    "author_img": "https://example.com/jane_smith.jpg",
+    "author_name": "Jane Smith",
+    "posted_date": "2024-03-13",
+    "reading_time": 8,
+    "hashtags": ["#art", "#design"]
+    
+    
+  },
+  {
+    "id": 3,
+    "cover_image": "https://example.com/cover_image3.jpg",
+    "title": "Discovering Hidden Gems: Nature's Wonders",
+    "author_img": "https://example.com/alex_johnson.jpg",
+    "author_name": "Alex Johnson",
+    "posted_date": "2024-03-12",
+    "reading_time": 15,
+    "hashtags": ["#travel", "#nature"]
+   
+   
+  },
+  {
+    "id": 4,
+    "cover_image": "https://example.com/cover_image4.jpg",
+    "title": "Delicious Recipes from Around the World",
+    "author_img": "https://example.com/emily_brown.jpg",
+    "author_name": "Emily Brown",
+    "posted_date": "2024-03-11",
+    "reading_time": 12,
+    "hashtags": ["#food", "#cooking"],
+   
+    
+  },
+  {
+    "id": 5,
+    "cover_image": "https://example.com/cover_image5.jpg",
+    "title": "The Magic of Live Music Performances",
+    "author_img": "https://example.com/michael_wilson.jpg",
+    "author_name": "Michael Wilson",
+    "posted_date": "2024-03-10",
+    "reading_time": 20,
+    "hashtags": ["#music", "#concert"],
+    
+    
+  }
+]
